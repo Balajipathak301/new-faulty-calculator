@@ -19,4 +19,4 @@ elif i=='*' and (int1 == 45 or int1 == 5) and (int2 == 45 or int2 == 5):
     print(555)
 elif i=='/' and int1 ==56 and int2 == 4:
     print(6)
-print("Thank you")
+print("Thank you for using me")
